@@ -1,0 +1,3 @@
+# Python dependencies
+oracledb>=2.0.0
+colorama>=0.4.6
