@@ -9,8 +9,11 @@ This repository contains a collection of **Python assignments and projects** tha
 python-portfolio
 │
 ├── assignments/ → Python practice problems and exercises
+
 ├── projects/ → Mini and major Python projects
+
 ├── README.md → Project documentation
+
 └── .gitignore → Ignored files configuration
 ---
 
