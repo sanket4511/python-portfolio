@@ -1,0 +1,4 @@
+﻿# Ignore temporary helper scripts and commit message file
+commit_msg.txt
+inspect_nb.py
+run_nb_check.py
