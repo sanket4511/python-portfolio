@@ -1,0 +1,5 @@
+﻿Add .gitignore to ignore temporary helper files
+
+- Ignore inspect_nb.py, run_nb_check.py, and commit_msg.txt which are local helper files created during debugging.
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
